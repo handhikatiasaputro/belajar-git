@@ -1,0 +1,2 @@
+1. git checkout hash/nama_branch -> memindahkan head ke commit/brach tertentu
+2. git branch -> meilihat semua cabang
