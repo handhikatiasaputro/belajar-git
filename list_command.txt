@@ -14,6 +14,6 @@
 14. git init -> menginisiasi folder jadi repo
 15. git reflog -> untuk melihat riwayat commit yang baru
 16. git restore -> untuk undo file working area
-17. git remote NAMA_FILE URL -> untuk menghubungkan file dari git ke git hub
+17. git remote add URL_GIT -> untuk menghubungkan file dari git ke git hub
 18. git push NAMA_FILE BRANCH -> untuk memindahkan file git ke github
 19. git pull NAMA_FILE BRANCH -> untuk mendownload file github ke local git
